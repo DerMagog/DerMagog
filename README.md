@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerMagog
 
-- Sports statistics to order!
+- Sports statistics to order! (Love NHL and NPB :)
 
 Hockey, baseball, basketball, etc.
 Cleaned up json, scv files.
